@@ -14,7 +14,15 @@
     <link rel="stylesheet" href="/styles.css" />
   </head>
 
-  <body>
+  <script>
+    window.addEventListener("load", function() {
+      document.getElementById("body")
+              .classList
+              .remove("hidden")
+    })
+  </script>
+
+  <body id="body" class="hidden">
     <div class="container">
       <div class="title">dAIvd</div>
 

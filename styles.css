@@ -12,6 +12,10 @@ body {
   margin: 0;
 }
 
+body.hidden {
+  display: none;
+}
+
 .container {
   width: fit-content;
   height: 100vh;
