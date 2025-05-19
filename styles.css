@@ -1,14 +1,5 @@
-@font-face {
-  font-family: "Geist-Regular";
-
-  src: url("./fonts/Geist-Regular.eot?#iefix") format("embedded-opentype"),     /* IE6-IE8 */
-       url("./fonts/Geist-Regular.woff") format("woff"),                        /* Modern Browsers */
-       url("./fonts/Geist-Regular.woff2") format("woff2"),                      /* Super Modern Browsers */
-       url("./fonts/Geist-Regular.ttf")  format("truetype");                    /* Safari, Android, iOS */
-}
-
 body {
-  font-family: "Geist-Regular", sans-serif;
+  font-family: "Futura", sans-serif;
   margin: 0;
 }
 
