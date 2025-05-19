@@ -30,6 +30,11 @@ body.hidden {
 
 .title {
   font-size: 7rem;
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
 }
 
 .icons {
